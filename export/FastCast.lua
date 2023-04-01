@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'"Fast Cast"+4','Mag. Acc.+22','"Mag.Atk.Bns."+19','DMG:+5',}},
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Bunzi's Hat",
+    body="Inyanga Jubbah +2",
+    hands={ name="Kaykaus Cuffs", augments={'MP+60','Spell interruption rate down +10%','"Cure" spellcasting time -5%',}},
+    legs="Bunzi's Pants",
+    feet="Regal Pumps +1",
+    neck="Nodens Gorget",
+    waist="Rumination Sash",
+    left_ear="Halasz Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Kishar Ring",
+    right_ring="Lebeche Ring",
+    back="Solemnity Cape",
+}

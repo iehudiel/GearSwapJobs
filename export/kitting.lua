@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Queller Rod", augments={'Healing magic skill +15','"Cure" potency +10%','"Cure" spellcasting time -7%',}},
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Bunzi's Hat",
+    body="Bunzi's Robe",
+    hands="Bunzi's Gloves",
+    legs="Bunzi's Pants",
+    feet="Crier's Gaiters",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Fucho-no-Obi",
+    left_ear="Etiolation Earring",
+    right_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','Latent effect: "Refresh"+1',}},
+    left_ring="Defending Ring",
+    right_ring="Vocane Ring",
+    back="Solemnity Cape",
+}

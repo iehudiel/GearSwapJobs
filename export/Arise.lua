@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'"Fast Cast"+4','Mag. Acc.+22','"Mag.Atk.Bns."+19','DMG:+5',}},
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Bunzi's Hat",
+    body={ name="Telchine Chas.", augments={'Mag. Acc.+11 "Mag.Atk.Bns."+11','"Cure" spellcasting time -5%','Enh. Mag. eff. dur. +9',}},
+    hands={ name="Chironic Gloves", augments={'STR+12','Accuracy+8','"Refresh"+1',}},
+    legs={ name="Lengo Pants", augments={'INT+10','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Refresh"+1',}},
+    feet="Regal Pumps +1",
+    neck="Nodens Gorget",
+    waist="Rumination Sash",
+    left_ear="Halasz Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Kishar Ring",
+    right_ring="Lebeche Ring",
+    back="Solemnity Cape",
+}

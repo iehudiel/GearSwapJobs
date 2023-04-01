@@ -1,0 +1,17 @@
+sets.exported={
+    main="Bolelabunga",
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Inyanga Tiara +2",
+    body={ name="Telchine Chas.", augments={'Mag. Acc.+11 "Mag.Atk.Bns."+11','"Cure" spellcasting time -5%','Enh. Mag. eff. dur. +9',}},
+    hands="Inyan. Dastanas +2",
+    legs={ name="Telchine Braconi", augments={'Mag. Acc.+22','"Cure" spellcasting time -3%','Enh. Mag. eff. dur. +9',}},
+    feet={ name="Piety Duckbills +1", augments={'Enhances "Afflatus Solace" effect',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Fucho-no-Obi",
+    left_ear="Etiolation Earring",
+    right_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','Latent effect: "Refresh"+1',}},
+    left_ring="Defending Ring",
+    right_ring="Vocane Ring",
+    back="Solemnity Cape",
+}

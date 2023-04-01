@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Queller Rod", augments={'Healing magic skill +15','"Cure" potency +10%','"Cure" spellcasting time -7%',}},
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Inyanga Tiara +2",
+    body="Theo. Bliaut +3",
+    hands="Inyan. Dastanas +2",
+    legs="Assid. Pants +1",
+    feet="Inyan. Crackows +2",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Fucho-no-Obi",
+    left_ear="Etiolation Earring",
+    right_ear={ name="Moonshade Earring", augments={'"Mag.Atk.Bns."+4','Latent effect: "Refresh"+1',}},
+    left_ring="Defending Ring",
+    right_ring="Vocane Ring",
+    back="Solemnity Cape",
+}

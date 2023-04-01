@@ -1,0 +1,17 @@
+sets.exported={
+    main="Beneficus",
+    sub="Culminus",
+    ammo="Staunch Tathlum",
+    head="Befouled Crown",
+    body={ name="Telchine Chas.", augments={'Mag. Acc.+11 "Mag.Atk.Bns."+11','"Cure" spellcasting time -5%','Enh. Mag. eff. dur. +9',}},
+    hands={ name="Telchine Gloves", augments={'Enh. Mag. eff. dur. +9',}},
+    legs={ name="Telchine Braconi", augments={'Mag. Acc.+22','"Cure" spellcasting time -3%','Enh. Mag. eff. dur. +9',}},
+    feet={ name="Piety Duckbills +1", augments={'Enhances "Afflatus Solace" effect',}},
+    neck="Enhancing Torque",
+    waist="Cascade Belt",
+    left_ear="Halasz Earring",
+    right_ear="Etiolation Earring",
+    left_ring="Kishar Ring",
+    right_ring="Lebeche Ring",
+    back="Perimede Cape",
+}

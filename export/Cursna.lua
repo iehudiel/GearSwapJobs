@@ -1,0 +1,17 @@
+sets.exported={
+    main={ name="Gada", augments={'"Fast Cast"+4','Mag. Acc.+22','"Mag.Atk.Bns."+19','DMG:+5',}},
+    sub="Sors Shield",
+    ammo="Staunch Tathlum",
+    head={ name="Vanya Hood", augments={'MP+50','"Cure" potency +7%','Enmity-6',}},
+    body="Theo. Bliaut +3",
+    hands={ name="Fanatic Gloves", augments={'MP+30','Healing magic skill +5','"Conserve MP"+4',}},
+    legs="Ebers Pant. +1",
+    feet={ name="Vanya Clogs", augments={'"Cure" potency +5%','"Cure" spellcasting time -15%','"Conserve MP"+6',}},
+    neck="Malison Medallion",
+    waist="Rumination Sash",
+    left_ear={ name="Nourish. Earring +1", augments={'Path: A',}},
+    right_ear="Halasz Earring",
+    left_ring="Ephedra Ring",
+    right_ring="Ephedra Ring",
+    back={ name="Alaunus's Cape", augments={'MND+20','Mag. Acc+10 /Mag. Dmg.+10','MND+10','"Cure" potency +10%','Spell interruption rate down-10%',}},
+}
